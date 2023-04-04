@@ -18,7 +18,7 @@ Sanatkhani, S., Nedios, S., Menon, P. G., Saba, S. F., Jain, S. K., Federspiel, 
 
 Sanatkhani, S., Nedios, S., Menon, P. G., Bollmann, A., Hindricks, G., & Shroff, S. G. (2021). Subject-Specific Calculation of Left Atrial Appendage Blood-Borne Particle Residence Time Distribution in Atrial Fibrillation. <i>Front Physiol, 12</i>(633135), 1-12. <a href = "https://doi.org/10.3389/fphys.2021.633135" target="_blank">doi: 10.3389/fphys.2021.633135</a>
 
-Sanatkhani, S. (2022). <i>Hemodynamic Indices and Shape-Based Models of Left Atrial Appendage to Enhance Stroke Prediction in Atrial Fibrillation</i> [Doctoral Dissertation, University of Pittsburgh]. doi: Use the repository generated DOI. <a href = "http://d-scholarship.pitt.edu/41689/" target="_blank">http://d-scholarship.pitt.edu/41689/</a>
+Sanatkhani, S. (2022). <i>Hemodynamic Indices and Shape-Based Models of Left Atrial Appendage to Enhance Stroke Prediction in Atrial Fibrillation</i> [Doctoral Dissertation, University of Pittsburgh]. doi: Use the DOI generated for the repository. <a href = "http://d-scholarship.pitt.edu/41689/" target="_blank">http://d-scholarship.pitt.edu/41689/</a>
 
 Nedios, S., Sanatkhani, S., Oladosu, M., Seewoster, T., Richter, S., Arya, A., Heijman, J., H, J. G. M. C., Hindricks, G., Bollmann, A., & Menon, P. G. (2021). Association of low-voltage areas with the regional wall deformation and the left atrial shape in patients with atrial fibrillation: A proof of concept study. <i>Int J Cardiol Heart Vasc, 33</i>(100730), 1-5. <a href = "https://doi.org/10.1016/j.ijcha.2021.100730" target="_blank">doi: 10.1016/j.ijcha.2021.100730</a>
 
